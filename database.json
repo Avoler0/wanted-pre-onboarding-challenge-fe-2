@@ -1,5 +1,18 @@
 {
   "todo":[
-    
+    {
+    "id":1,
+    "content":"프리온보딩 챌린지",
+    "complete":false,
+    "category":"todo",
+    "tags":["타입스크립트","JSDoc"]
+  },
+  {
+    "id":2,
+    "content":"2차 챌린지",
+    "complete":true,
+    "category":"todo",
+    "tags":["프론트엔드코스"]
+  }
   ]
 }
